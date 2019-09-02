@@ -7,7 +7,6 @@
 * Source Code from Lecture
   * [Index](https://cdn.cs50.net/2018/fall/lectures/0/src0/)
   * [ZIP](https://cdn.cs50.net/2018/fall/lectures/0/src0.zip)
-* [Syllabus]({{ "/syllabus" | relative_url }})
 * [Video](https://video.cs50.net/2018/fall/lectures/0)
 * Reference Sheets
   * [Algorithms](https://ap.cs50.school/assets/pdfs/algorithms.pdf)
