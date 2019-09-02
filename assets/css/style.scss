@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+aside {background-color: #00643a;}
+a {color: #00643a;}
+a:hover {color: #ffab07;}
+a:active {color:  #00643a;}

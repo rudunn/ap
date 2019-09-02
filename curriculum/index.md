@@ -1,4 +1,4 @@
-# CS50 Core Curriculum
+# CS Fundamentals Core Curriculum
 
 * [Chapter 0](0)
 * [Chapter 1](1)
@@ -10,8 +10,9 @@
 * [Chapter 7](7)
 * [Chapter 8](8)
 
-# AP Modules
+# Project Modules
 
 * [Understanding Technology](understanding_technology)
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
+
