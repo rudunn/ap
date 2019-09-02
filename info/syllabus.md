@@ -1,6 +1,6 @@
 # Syllabus
 
-This course will cover basics of computer systems with a strong emphasis on algorithms, design thinking, and creative exploration. Much of our journey will be centered around the task of gaining some proficiency in programming in the C language. You will learn why this particular language is so iumportant over the course of the year. You will be expected to be on time and present in class. You must use classroom technology appropriately and complete the tasks assigned each day. There should be very little homework.
+This course will cover basics of computer systems with a strong emphasis on algorithms, design thinking, and creative exploration. Much of our journey will be centered around the task of gaining some proficiency in programming in the C language. You will learn why this particular language is so important over the course of the year. You will be expected to be on time and present in class. You must use classroom technology appropriately and complete the tasks assigned each day. There should be very little homework.
 
 You will be expected to uphold very high standards of academic honesty. You will see specific rules attached to most assignments, but in general you may not turn in work that is not your own unless you have written instructions from Mr. Dunn instructing otherwise.
 
