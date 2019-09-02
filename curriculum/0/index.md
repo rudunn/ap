@@ -15,6 +15,6 @@
   * [Pseudocode](https://ap.cs50.school/assets/pdfs/pseudocode.pdf)
   * [Scratch](https://ap.cs50.school/assets/pdfs/scratch.pdf)
 * [Background Info](more)
-* [Sign up for Submit50](https://submit.cs50.io/invites/731f86b8e75242ddb3a93da61ccfd3c1)
-* [Join Quizlet](https://quizlet.com/join/pHYbq8HZE)
-* [Join Schoology](https://schoology.com) - The class code is: KWTF-VSRW-K2S8C  
+* [Sign up for Submit50](https://submit.cs50.io/) - If you still need the join code, it's on Google Classroom
+* [Join Quizlet](https://quizlet.com/) - Get the join code from Google Classroom
+* [Join Schoology](https://schoology.com) - The class code is on Google Classroom  
