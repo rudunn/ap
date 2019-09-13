@@ -18,6 +18,7 @@ int main(void)
             if (i % j == 0)
             {
                 is_prime = false;
+                break;
             }
         }
         if (is_prime)
