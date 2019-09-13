@@ -9,7 +9,7 @@ int main(void)
     int prime_numbers = 100;
 
     printf("%i, ", 2);
-    //for (int i = 3; i < 100; i++)
+    //for (int i = 3; i < prime_numbers; i++)
     while (counter < prime_numbers)
     {
         is_prime = true;
