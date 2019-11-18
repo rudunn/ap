@@ -9,6 +9,7 @@
   * [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html)
   * [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html)
   * [Crack](https://docs.cs50.net/2019/ap/problems/crack/crack.html) or [Vigenère](https://docs.cs50.net/2019/ap/problems/vigenere/vigenere.html)
+  * [Try some passowrds for crack](trythese)
 * Shorts
   * [Algorithms summary](https://www.youtube.com/watch?v=ktWL3nN38ZA)
   * [Arrays](https://www.youtube.com/watch?v=mISkNAfWl8k)
