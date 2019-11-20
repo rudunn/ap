@@ -6,6 +6,7 @@
   * [Pointer Fun with Binky](https://www.youtube.com/watch?v=_d0jFalGxnQ)
 * [Notes](notes)
 * Problems
+  * [Play this game before attempting Fifteen](https://www.helpfulgames.com/subjects/brain-training/sliding-puzzle.html)
   * [Fifteen](https://docs.cs50.net/2019/ap/problems/fifteen/fifteen.html)
   * [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
   * [Resize (less comfy)](https://docs.cs50.net/2019/ap/problems/resize/less/resize.html) or [Resize (more comfy)](https://docs.cs50.net/2019/ap/problems/resize/more/resize.html)
