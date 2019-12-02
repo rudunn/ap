@@ -5,12 +5,12 @@
 
 ***
 
-* [**Syllabus**]({{ "/info/syllabus" | relative_url }})
+* [**Syllabus**]({{ "/info/syllabus/index" | relative_url }})
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
 
 ***
 
 * [**Curriculum**]({{ "/curriculum/index" | relative_url }})
-* [Tools]({{ "/tools" | relative_url }})
+* [Tools]({{ "/tools/index" | relative_url }})
 * [AP Syllabus]({{ "/syllabus" | relative_url }})
