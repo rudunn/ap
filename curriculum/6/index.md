@@ -5,7 +5,7 @@
   * [Analyze This](https://docs.cs50.net/2019/ap/problems/analyze/analyze.html)
   * Sentimental
     * [Hello](https://docs.cs50.net/2019/ap/problems/sentimental/hello/hello.html)
-    * [Mario(less)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/less/mario.html) or [Mario(more)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/more/mario.html)
+    * [Mario(less)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/less/mario.html) (not for credit) or [Mario(more)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/more/mario.html)
     * [Cash](https://docs.cs50.net/2019/ap/problems/sentimental/cash/cash.html) and [Credit](https://docs.cs50.net/2019/ap/problems/sentimental/credit/credit.html)
     * [Caesar](https://docs.cs50.net/2019/ap/problems/sentimental/caesar/caesar.html), [Vigenère](https://docs.cs50.net/2019/ap/problems/sentimental/vigenere/vigenere.html), or [Crack](https://docs.cs50.net/2019/ap/problems/sentimental/crack/crack.html) (Pick 2)
   * [Bleep](https://docs.cs50.net/2019/ap/problems/bleep/bleep.html)
