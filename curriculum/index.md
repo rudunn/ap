@@ -11,9 +11,9 @@
 
 * [Chapter 5](5)
 * [Chapter 6](6)
+* [Chapter 7](7)
 
 <!---
-* [Chapter 7](7)
 * [Chapter 8](8)
 --->
 
