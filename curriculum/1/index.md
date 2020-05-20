@@ -6,7 +6,7 @@
   * [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html)
   * [ISBN](https://docs.cs50.net/2019/ap/problems/isbn/isbn.html)
   * [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html)
-  * [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) or [Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html)
+  * [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) and [Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html)
   * [Mario(less comfy)](https://docs.cs50.net/2019/ap/problems/mario/less/mario.html) or [Mario(more comfy)](https://docs.cs50.net/2019/ap/problems/mario/more/mario.html)
 * Shorts
   * [Command Line](https://www.youtube.com/watch?v=lnYKOnz9ln8)
