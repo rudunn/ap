@@ -27,8 +27,8 @@
   * [ZIP](https://cdn.cs50.net/2018/fall/lectures/3/src3.zip)
 * [Video](https://video.cs50.net/2018/fall/lectures/3/)
 * Reference Sheets
-  * [Bugs and Debugging](https://ap.cs50.school/assets/pdfs/bugs_and_debugging.pdf)
-  * [File I/O](https://ap.cs50.school/assets/pdfs/file_io.pdf)
-  * [Hexadecimal](https://ap.cs50.school/assets/pdfs/hexadecimal.pdf)
-  * [Images](https://ap.cs50.school/assets/pdfs/images.pdf)
-  * [Structures and Encapsulation](https://ap.cs50.school/assets/pdfs/structures_and_encapsulation.pdf)
+  * [Bugs and Debugging](/assets/pdfs/bugs_and_debugging.pdf)
+  * [File I/O](/assets/pdfs/file_io.pdf)
+  * [Hexadecimal](/assets/pdfs/hexadecimal.pdf)
+  * [Images](/assets/pdfs/images.pdf)
+  * [Structures and Encapsulation](/assets/pdfs/structures_and_encapsulation.pdf)
