@@ -17,6 +17,6 @@
 
 ***
 
-Adapted from CS50AP 
-by [David Malan](https://cs.harvard.edu/malan/)
-[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* Adapted from CS50AP 
+* by [David Malan](https://cs.harvard.edu/malan/)
+* [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
