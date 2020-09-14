@@ -14,3 +14,7 @@
 * [**Curriculum**]({{ "/curriculum/index" | relative_url }})
 * [Tools]({{ "/tools/index" | relative_url }})
 * [AP Syllabus]({{ "/syllabus" | relative_url }})
+
+***
+
+[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
